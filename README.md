@@ -16,6 +16,14 @@
 - ⚡ Fun fact: ...
 - 🌱
 -->
+- JavaScript (ES6+), TypeScript
+- React, hooks, React-router
+- Redux, Redux Saga, Redux Thunk, Reselect, redux-form
+- Mobx
+- VueJS
+- SCSS / LESS / Stylus / PostCSS / styled-components
+- Material UI, Twitter Bootstrap, Ant Design
+- Node.JS / Express / MongoDB / Mongoose / JWT
 
 <div>
 <details>
