@@ -22,7 +22,6 @@
 - Mobx
 - VueJS
 - SCSS / LESS / Stylus / PostCSS / styled-components
-- Material UI, Twitter Bootstrap, Ant Design
 - Node.JS / Express / MongoDB / Mongoose / JWT
 
 <div>
