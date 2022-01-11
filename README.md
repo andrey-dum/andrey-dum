@@ -17,8 +17,9 @@
 - 🌱
 -->
 - JavaScript (ES6+), TypeScript
-- React
-- Redux, Redux Saga, Redux Thunk, Reselect, redux-form
+- React, Next
+- Redux, Redux Saga, Redux Thunk, Reselect
+- redux-form, formik, hook-form
 - Mobx
 - VueJS
 - SCSS / LESS / Stylus / PostCSS / styled-components
