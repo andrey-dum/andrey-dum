@@ -17,12 +17,12 @@
 - 🌱
 -->
 - JavaScript (ES6+), TypeScript
-- React, hooks, React-router
+- React
 - Redux, Redux Saga, Redux Thunk, Reselect, redux-form
 - Mobx
 - VueJS
 - SCSS / LESS / Stylus / PostCSS / styled-components
-- Node.JS / Express / MongoDB / Mongoose / JWT
+- Node.JS / Express / Nest 
 
 <div>
 <details>
