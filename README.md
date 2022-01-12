@@ -18,10 +18,10 @@
 -->
 - JavaScript (ES6+), TypeScript
 - React, Next
-- Redux, Redux Saga, Redux Thunk, Reselect
-- redux-form, formik, hook-form
-- Mobx
 - VueJS
+- Redux, Redux Saga, Redux Thunk, Reselect
+- Mobx
+- redux-form, formik, hook-form
 - SCSS / LESS / Stylus / PostCSS / styled-components
 - Node.JS / Express / Nest 
 
